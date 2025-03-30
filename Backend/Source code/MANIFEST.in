@@ -1,4 +1,4 @@
-include LICENSE, CHANGELOG.md, README.md
+CHANGELOG.md, README.md
 recursive-include tests *
 recursive-include razorpay *
 recursive-include examples *
