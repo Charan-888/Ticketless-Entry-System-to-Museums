@@ -1,6 +1,5 @@
 # Safar-E-Tourism
 
-[Proposed System expected to be published in Proceedings of ICICV 2023. Do not Plagiarise!]
 
 ## About 
 - Developed using **Django** as a backend and **HTML, CSS, JS and React** as the frontend, ‘Safar’ provides a seamless and easy-to-use interface for users to book their tickets.
@@ -19,5 +18,4 @@
 #### QR Verification
 ![Alt text](/media/verify.png "Verify")
 
-## Other Contributors
-Vithika Pungliya, Atharva Purohit, Ankur Raut
+
